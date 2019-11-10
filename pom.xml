@@ -10,7 +10,7 @@ Retrieve the list of stack overflow users meeting several criteria</description>
 
 	<properties>
 		<!-- other -->
-		<jackson.version>2.3.3</jackson.version>
+		<jackson.version>2.9.10.1</jackson.version>
 		<httpclient.version>4.5.10</httpclient.version>
 		<httpcore.version>4.4.12</httpcore.version>
 		<org.apache.commons.io.version>2.4</org.apache.commons.io.version>
